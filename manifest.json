@@ -1,0 +1,11 @@
+{
+  "name": "Linear Interpolation Chart",
+  "description": "A line chart that applies linear interpolation on missing values.",
+  "package": "linear-interpolation-chart",
+  "version": "1.0",
+  "components": {
+    "linear-interpolation-chart": {
+      "script": "index.js"
+    }
+  }
+}
